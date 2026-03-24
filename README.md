@@ -26,19 +26,24 @@ run py DNY_02.py
 
 calculate_fine("The Handbook of Psychology",10)
 
-Output:  150 
+Output:  150.0
 
 run py DNY_03.py
 
 calculate_fine("The not to do list",30)
 
-Output: You have accumulated the maximum fine of INR: 150 
+Output: You have accumulated the maximum fine of INR: 150.0
 
 run py DNY_04.py
 
-calculate_fine("The not to do list",5,10)
+calculate_fine("The not to do list",5,10.0)
 
-Output: 50
+Output: 50.0
+
+run py DNY_04.py
+calculate_fine("The not to do list",40)
+
+Output: 150.0
 
 
 
