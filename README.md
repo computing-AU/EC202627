@@ -1,8 +1,5 @@
 
-Define a Function with Name calculate_fine() Pass necessary formal parameters based on test cases
-
-    Prints and returns the fine for an overdue book and special message if fine reaches maximum capped amount.
-    Fine = ?, capped at max_fine.
+Define a Function with Name calculate_fine() Pass necessary formal parameters based on test cases.
 
     Parameters:
         book_title   :   Title of the book
@@ -30,20 +27,27 @@ Output:
 
 python3 DNY_03.py
 
-calculate_fine("The not to do list",30)
+The not to do list
+40
+Output: 
+You have accumulated the maximum fine of INR: 150.0
 
-Output: You have accumulated the maximum fine of INR: 150.0
+python3 DNY_04.py
 
-run py DNY_04.py
+The not to do list
+5
+10.0
 
-calculate_fine("The not to do list",5,10.0)
+Output: 
+50.0
 
-Output: 50.0
+python3 DNY_05.py
 
-run py DNY_04.py
-calculate_fine("The not to do list",40)
+Atomic Habits
+40
+200
 
-Output: 150.0
+Output: 200.0
 
 
 
