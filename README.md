@@ -1,14 +1,14 @@
 
 Define a Function with Name calculate_fine() Pass necessary formal parameters based on test cases.
 
-    Parameters:
+Takes
         book_title   :   Title of the book
         days_overdue :   Number of days past the due date
         daily_rate   :   Fine per day (INR 5:00 )
         max_fine     :   Maximum fine cap (INR: 150)
 
     Returns:
-        float: The final fine amount
+         fine amount
 
 Input:
 
@@ -45,6 +45,7 @@ python3 DNY_05.py
 
 Atomic Habits
 40
+5
 200
 
 Output: 200.0
