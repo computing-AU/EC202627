@@ -9,13 +9,14 @@ Takes
 
     Returns:
          fine amount
-
+"""
 Input:
 
 python3 DNY_01.py
 
 The not to do list
 5
+
 Output: 
 Book: The not to do list
 Days overdue: 5
@@ -26,6 +27,7 @@ python3 DNY_02.py
 The Handbook of Psychology
 10
 15
+
 Output: 
 Book: The Handbook of Psychology
 Days overdue: 10
@@ -36,6 +38,7 @@ python3 DNY_03.py
 
 The not to do list
 40
+
 Output:
 Book: The not to do list
 Days overdue: 40
@@ -63,7 +66,8 @@ Atomic Habits
 Output: 
 Book: Atomic Habits
 Days overdue: 40
-Fine: Rs. 200.0
+Fine: Rs. 200.0 
+"""
 
 
 
