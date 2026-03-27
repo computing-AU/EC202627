@@ -9,7 +9,7 @@ Takes
 
     Returns:
          fine amount
-"""
+
 Input:
 
 python3 DNY_01.py
@@ -67,7 +67,6 @@ Output:
 Book: Atomic Habits
 Days overdue: 40
 Fine: Rs. 200.0 
-"""
 
 
 
