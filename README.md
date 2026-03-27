@@ -16,20 +16,30 @@ python3 DNY_01.py
 
 The not to do list
 5
-Output: 25.0
+Output: 
+Book: The not to do list
+Days overdue: 5
+Fine: Rs. 25.0
 
 python3 DNY_02.py
 
 The Handbook of Psychology
 10
-Output:  
-150.0
+15
+Output: 
+Book: The Handbook of Psychology
+Days overdue: 10
+Fine: Rs. 150.0
+
 
 python3 DNY_03.py
 
 The not to do list
 40
-Output: 
+Output:
+Book: The not to do list
+Days overdue: 40
+Fine: Rs. 150.0
 You have accumulated the maximum fine of INR: 150.0
 
 python3 DNY_04.py
@@ -39,7 +49,9 @@ The not to do list
 10.0
 
 Output: 
-50.0
+Book: The not to do list
+Days overdue: 5
+Fine: Rs. 50.0
 
 python3 DNY_05.py
 
@@ -48,7 +60,10 @@ Atomic Habits
 5
 200
 
-Output: 200.0
+Output: 
+Book: Atomic Habits
+Days overdue: 40
+Fine: Rs. 200.0
 
 
 
