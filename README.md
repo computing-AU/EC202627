@@ -5,7 +5,7 @@ Takes
         book_title   :   Title of the book
         days_overdue :   Number of days past the due date
         daily_rate   :   Fine per day (INR 5:00 )
-        max_fine     :   Maximum fine cap (INR: 150)
+        max_fine     :   Maximum fine cap (INR: 150.0)
 
     Returns:
          fine amount
